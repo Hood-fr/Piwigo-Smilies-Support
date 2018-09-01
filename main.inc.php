@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Smilies Support
-Version: auto
+Version: 2.6.0
 Description: Allow add Smilies for comments and descriptions.
-Plugin URI: auto
+Plugin URI: http://piwigo.org/ext/extension_view.php?eid=159
 Author: Atadilo & P@t & Mistic
 */
 
